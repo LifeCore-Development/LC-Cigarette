@@ -3,6 +3,7 @@
 
 A simple resource to add smokeable cigs, to reduce stress.
 
+Only for QB-Core
 
 
 
